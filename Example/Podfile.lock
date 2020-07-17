@@ -1,0 +1,29 @@
+PODS:
+  - FFToolsKit (1.0.0):
+    - FMDB
+    - MBProgressHUD
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - FFToolsKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  FFToolsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFToolsKit: 28f33e7d716ad653dfca16c491fee13d7048df28
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: 2763aeaf6ba5bb110dbc50f3bc6bd0037483d9f0
+
+COCOAPODS: 1.9.3
